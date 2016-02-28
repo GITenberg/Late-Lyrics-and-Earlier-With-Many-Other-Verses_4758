@@ -1,0 +1,24 @@
+_repo: Late-Lyrics-and-Earlier-With-Many-Other-Verses_4758
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: 'Includes Hardy''s Apology, " ... his most significant and extended utterance
+  on poetry and criticism, ... "--R. L. Purdy. Thomas Hardy: a bibliographical study'
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Late Lyrics and Earlier, With Many Other Verses
+url: http://www.gutenberg.org/ebooks/4758
