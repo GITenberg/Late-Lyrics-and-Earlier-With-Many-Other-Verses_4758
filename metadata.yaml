@@ -1,5 +1,5 @@
 _repo: Late-Lyrics-and-Earlier-With-Many-Other-Verses_4758
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 4758-h/images/coverb.jpg
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English poetry'
 - !lcc 'PR'
+- GITenberg
 title: Late Lyrics and Earlier, With Many Other Verses
 url: http://www.gutenberg.org/ebooks/4758
